@@ -171,7 +171,7 @@ try {
     const homeBtn = document.getElementById('home-btn');
     if (homeBtn) {
         homeBtn.addEventListener('click', () => {
-            window.location.href = 'Shopping website.html';
+            window.location.href = 'index.html';
         });
     } else {
         console.error('Home button not found.');
