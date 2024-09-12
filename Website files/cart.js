@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const newBackBtn = document.getElementById('home-btn');
     if (newBackBtn) {
         newBackBtn.addEventListener('click', () => {
-            window.location.href = 'Shopping website.html';
+            window.location.href = 'index.html';
         });
     }
 });
